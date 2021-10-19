@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coffeesea
 - 👀 I’m interested in human, robot
-- 🌱 I’m currently learning programing things
+- 🌱 I’m currently learning programming things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me coffeebull@kakao.com
 
